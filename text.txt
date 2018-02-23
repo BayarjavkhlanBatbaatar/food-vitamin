@@ -1,93 +1,155 @@
-salmon
-whole grains
-eggs
-avocados
-milk
-yogurt
-cheddar cheese
-tofu
-bok choy
-spinach
-rhubarb
-broccoli
-brussels sprouts
-beef
-milk chocolate
-grape juice
-whole wheat waffle
-whole wheat muffins
-liver
-oyesters
-crab meat
-nuts
-raw_mushrooms
-semisweet chocolate
-sardines
-chicken
-fortified grains
-fortified cereals
-asparagus
-orange juice
-lentils
-cod
-shrimp
-tuna
-baked potatoes
-seaweed
-oysters
-raisins
-prune juice
-potatoes
-cashews
-oat bran
-almonds
-brown rice
-cooked spinach
-bananas
-molasses
-pineapples
-pecans
-oatmeal
-green tea
-black beans
-split peas
-peanuts
-coffee
-mushrooms
-sweet potato
-cheese
-beer
-carbonated cola drinks
-artichokes
-plums
-enriched grains and cereals
-brazil nuts
-crabmeat
-enriched noodles
-pork
-white bread
-pickles
-hot dogs
-cantaloupe
-enriched long grain white rice
-baked russet potatoes with the skin
-hazelnuts
-coocked spinach
-clams
-mussels
-poached eggs
-skim milk
-brie cheese
-grape fruits
-strawberries
-tomatoes
-red peppers
-fortified milk
-canned salmon
-egg yolks
-olive oil
-canola oil
-kale
-parsley
-swiss chard
-turkey
+Cooked salmon|biotin,b7,h|4-5 mcg per 3 ounces
+whole grains|biotin,b7,h|0.02-6mgc pre slice of bread
+eggs|biotin,b7,h|13-25 mcg per large egg
+avocados|biotin,b7,h|2-6 mcg per avocado
+milk|calcium|300mg per cup-ice cream counts too!
+yogurt|calcium|300mg per cup
+cheddar cheese|calcium|303mg per 1.5 ounces
+tofu|calcium|258 mg per 1/2 cup
+bok choy|calcium|79 mg per 1/2 cup
+spinach|calcium|115 mg per 1/2 cup
+rhubarb|calcium|174 mg per 1/2 cup
+eggs|choline|126 mg per egg
+milk|choline|38 mg per cup
+cooked broccoli|choline|62 mg per cup
+cooked brussels sprouts|choline|62 mg per cup
+beef|choline|67 mg per 3 ounces
+milk chocolate|choline|20 mg per 1.5 ounces bar
+broccoli|chromium|22 mgc per cup
+grape juice|chromium|7.5 mcg per cup
+whole wheat waffle|chromium|6.7 mcg per waffle
+whole wheat muffins|chromium|3.6 mcg per muffin
+liver|copper|4049mcg per ounce
+oyesters|copper|670 mcg per medium oyester
+crab meat|copper|634 per 3 ounces
+nuts|copper|cashews, for example, offer 629 mcg per ounce
+raw_mushrooms|copper|344 mcg per cup
+semisweet chocolate|copper|198 mcg per ounce
+grape juice|flouride|0.05 - 0.64 mg per cup
+sardines|flouride|0.2-0.4 mg per 3.5 ounces
+chicken|flouride|0.06-0.10mg per 3.5 ounces
+fortified grains|folic acid,folate,folacin|200-400 mcg per cup
+fortified cereals|folic acid,folate,folacin|200-400 mcg per cup
+asparagus|folic acid,folate,folacin|143 mcg per 6 spears
+spinach|folic acid,folate,folacin|132 mcg per hulf cup
+orange juice|folic acid,folate,folacin|83 mcg per cup
+lentils|folic acid,folate,folacin|179 per half cup
+cod|iodine|99 mcg per 3 ounces
+shrimp|iodine|35 mcg per 3 ounces
+tuna|iodine|17 mcg per half can
+milk|iodine|56 mcg per cup
+baked potatoes |iodine|60 mcg per medium potato
+seaweed|iodine|more than than 4,500 mcg per ¼ ounce!!!!!
+beef|iron|2.32 mg per 3 cooked ounces
+oysters|iron|5.04 mg per 6 medium oysters
+raisins|iron|0.81 mg per small box
+prune juice|iron|2.28 mg per 6 fluid ounces
+potatoes|iron|1.87 mg per medium potato
+lentils|iron|3.30 mg per half cup
+tofu|iron|2.15 mg per ¼ block
+cashews|iron|1.89 per ounce
+oat bran|magnesium|96 mg per half cup
+almonds|magnesium|78 mg per ounce
+brown rice|magnesium|86 mg per cup
+cooked spinach|magnesium|78 mg per half cup
+bananas|magnesium|32 mg per banana
+molasses|magnesium|48 mg per tablespoon
+pineapples|manganese|0.77 mg per half cup, Get a limited portion of this potion with pineapples
+pecans|manganese|1.28 mg per ounce
+oatmeal|manganese|0.99 mg per instant oatmeal packet
+brown rice|manganese|1.07 mg per half cup
+green tea|manganese|0.41-1.58 mg per cup
+black beans|molybdenum|130 mcg per cup
+split peas|molybdenum|148 mcg per cup
+nuts|molybdenum|nuts like almonds, chestnuts, and peanuts (all about 42 mcg per cup)
+peanuts|niacin,b3,nicotinic acid|3.8 mg per ounces
+chicken|niacin,b3,nicotinic acid|7.3 mg per 3 ounces
+salmon|niacin,b3,nicotinic acid|8.5 mg per 3 ounces
+fortified cereals|niacin,b3,nicotinic acid|20-27 mg per cup
+coffee|niacin,b3,nicotinic acid|0.5 mg per cup
+chicken|pantothenic acid,b5|0.98 mg per 3 ounces
+eggs|pantothenic acid,b5|0.61 mg per large egg
+whole grains|pantothenic acid,b5|0.19 mg per slice of whole wheat bread
+mushrooms|pantothenic acid,b5|0.52 mg per half cup
+sweet potato|pantothenic acid,b5|0.88 mg per medium potato
+avocados|pantothenic acid,b5|1.99 mg per whole avocado
+yogurt|pantothenic acid,b5|1.35 mg per cup
+milk|phosphorus|257 mg per cup (Foods abounding in phosphorus include all-things dairy, like milk)
+yogurt|phosphorus|385 mg per cup
+cheese|phosphorus|131 mg per ounce
+salmon|phosphorus|252 mg per 3 ounces
+eggs|phosphorus|104 mg per large egg
+beer|phosphorus|173 mg per 3 ounces
+chicken|phosphorus|155 mg per 3 ounces
+carbonated cola drinks|phosphorus|40 mg per 3 ounces
+baked potatoes|potassium|926 mg per potato
+artichokes|potassium|343 mg per medium artichoke
+plums|potassium|637 mg per 1/2 cup
+raisins|potassium|598 mg per 1/2 cup
+bananas|potassium|422 per medium banana
+milk|riboflavin,b2|0.34 mg per cup
+almonds|riboflavin,b2|0.23 mg per ounce
+cheddar cheese|riboflavin,b2|0.11 mg per ounce
+eggs|riboflavin,b2|0.27 mg per large egg
+enriched grains and cereals|riboflavin,b2|0.59-2.27 mg per cup
+brazil nuts|selenium|544 mcg per six kernels, sky-high in selenium
+shrimp|selenium|34 mcg per 10-12 shrimp
+crabmeat|selenium|41 mcg per 3 ounces
+salmon|selenium|40 mcg per 3 ounces
+enriched noodles|selenium|38 mcg per cup
+beef|selenium|16 mcg per 3 ounces
+pork|selenium|35 mcg per 3 ounces
+white bread|sodium chloride,salt|850 mg per 2 slices
+pickles|sodium chloride,salt|800 mg per 1 spear
+hot dogs|sodium chloride,salt|1300 mg per one wiener 
+milk|thiamin,b1|0.1mg per cup
+lentils|thiamin,b1|0.17 mg per 1/2 cup
+cantaloupe|thiamin,b1|0.11 mg per 1/2 friut
+enriched long grain white rice|thiamin,b1|0.26 mg per cup
+pecans|thiamin,b1|0.19 mg per ounce
+kale|a|443 mcg per ½ cup
+eggs|a|91 mcg per large egg
+liver oil|a|1,350 mcg per teaspoon
+carrots|a|538 mcg per ½ cup
+baked sweet potatoes|a|961 mcg per ½ cup
+canned pumpkin|a|953 mcg per ½ cup
+cantaloupe|a|467 mcg per ½ a melon
+mango|a|79 mcg per fruit
+butternut squash|a|572 mcg per ½ cup
+salmon|b6,pyridoxal,pyridoxine,pyridoxamine|0.48 mg per 3 ounces
+chicken|b6,pyridoxal,pyridoxine,pyridoxamine|0.51 mg per 3 ounces
+bananas|b6,pyridoxal,pyridoxine,pyridoxamine|0.43 mg per medium banana
+baked russet potatoes with the skin|b6,pyridoxal,pyridoxine,pyridoxamine|0.70 per medium potato
+hazelnuts|b6,pyridoxal,pyridoxine,pyridoxamine|0.18 mg per ounces
+coocked spinach|b6,pyridoxal,pyridoxine,pyridoxamine|0.44 mg per cup
+clams|b12|84 mcg per 3 ounces
+mussels|b12|20.4 mcg per 3 ounces
+beef|b12|2.1 mcg per 3 ounces
+salmon|b12|2.4 mcg per 3 ounces
+poached eggs|b12|0.6 mcg per large egg
+skim milk|b12|0.9 mcg per cup
+brie cheese|b12|0.5 mcg per ounces
+orange juice|c,asorbic acid|100+ mg per cup
+grape fruits|c,asorbic acid|76 mg per medium fruit
+strawberries|c,asorbic acid|85 mg per cup
+tomatoes|c,asorbic acid|16 mg per medium tomato
+red peppers|c,asorbic acid|95 mg per 1/2 cup
+broccoli|c,asorbic acid|51 mg per 1/2 cup
+fortified cereals|d|1.0-1.3 mcg per cup
+fortified milk|d|2.4 mcg per cup
+canned salmon|d|13.3 mcg per 3 ounces
+egg yolks|d|0.53 mcg per large egg
+olive oil|e|1.9 mg per tablespoon
+canola oil|e|2.4 mg per tablespoon
+almonds|e|7.4 mg per ounce
+avocados|e|2.7 mg per avocado
+hazelnuts|e|4.3 mg per ounce
+broccoli|k|220 mcg per cup
+kale|k|547 mcg per cup
+parsley|k|246 mcg per 1/4 cup
+swiss chard|k|299 mcg per cup
+oyesters|zinc|76.3 mg per 6 oyesters
+beef|zinc|6 mg per 3 ounces
+turkey|zinc|3.8 mg per 3 ounces
+milk|zinc|1.8 mg per cup
+cashews|zinc|1.6 mg per ounces

@@ -4,7 +4,7 @@ import sqlite3
 fpath = 'sheet.tsv'
 inputFile = pandas.read_csv(fpath, sep='\t')
 
-def addToTableVitamin(vitaminString, foodString, WUNString, WTMString):
+def addToTableVitamin(vitaminString, foodString, infoString, WUNString, WTMString):
 	alreadyInDb = 0
 	conn = sqlite3.connect("sql/database.sqlite3")
 	data = conn.execute("SELECT * FROM vitamin")
@@ -16,7 +16,7 @@ def addToTableVitamin(vitaminString, foodString, WUNString, WTMString):
 
 	if alreadyInDb == 0:
 		cur = conn.cursor()
-		cur.execute("INSERT INTO vitamin VALUES (?, ?, ?, ?)",(vitaminString, foodString, WUNString, WTMString ))
+		cur.execute("INSERT INTO vitamin VALUES (?, ?, ?, ?, ?)",(vitaminString, foodString, infoString, WUNString, WTMString ))
 		conn.commit()
 		conn.close()
 def addToTableVitQinFood(foodName, vitamin, quantity):
@@ -47,22 +47,26 @@ def addToTableVitQinFood(foodName, vitamin, quantity):
 state = 0
 vitaminString = ""
 foodString = ""
+infoString = ""
 WUNString = ""
 WTMString = ""
 
 for index, row in inputFile.iterrows():
 	if(str(row["vitamin"]) != "nan"):
 		if(state == 1):
-			addToTableVitamin(vitaminString, foodString, WUNString, WTMString)
+			addToTableVitamin(vitaminString, foodString, infoString, WUNString, WTMString)
 			state = 0
 			vitaminString = ""
 			foodString = ""
+			infoString = ""
 			WUNString = ""
 			WTMString = ""
 		if(vitaminString == ""):
 			vitaminString = str(row["vitamin"]).lower()
 		else:
 			vitaminString = vitaminString + "," + str(row["vitamin"]).lower()
+	elif(str(row["food"]) == "INFO"):
+		infoString = str(row["info"])
 	elif(str(row["food"]) == "WUN"):
 		WUNString = str(row["info"])
 	elif(str(row["food"]) == "WTM"):
@@ -76,7 +80,7 @@ for index, row in inputFile.iterrows():
 		else:
 			foodString = foodString + "," + str(row["food"]).lower()
 		state = 1
-addToTableVitamin(vitaminString, foodString, WUNString, WTMString)
+addToTableVitamin(vitaminString, foodString, infoString, WUNString, WTMString)
 conn = sqlite3.connect("sql/database.sqlite3")
 data = conn.execute("SELECT * FROM vitaminQuantInFood")
 data = data.fetchall()

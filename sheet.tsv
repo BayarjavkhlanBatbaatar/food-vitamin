@@ -2,13 +2,15 @@ vitamin	food	info
 Biotin		
 b7		
 H		
+	INFO	Biotin (a.k.a. Vitamin B7 or Vitamin H): Like the rest of the water-soluble B-complex vitamins, biotin plays a huge role in cell growth and food metabolism . Metabolism is the process by which our bodies covert the food we eat into energy that can then be used to power everything we do, from thinking, to running, to hula-hooping. Deficiency of this vitamin is extremely rare, but overdoing it on raw egg whites has been known to prevent biotin absorption (albeit, in a pretty old study) (we’re looking at you, Rocky)
 	WUN	30mcg
 	WTM	Not determined
-	salmon	4-5 mcg per 3 ounces
+	Cooked salmon	4-5 mcg per 3 ounces
 	whole grains	0.02-6mgc pre slice of bread
 	eggs	13-25 mcg per large egg
 	avocados	2-6 mcg per avocado
 Calcium		
+	INFO	Calcium: Got milk? Guzzle a glassful to get the daily dose of calcium, a macromineral crucial for the healthy development of bones and teeth. But that’s not all — calcium also offers a helping hand in muscle function, blood clotting, nerve signaling, hormone secretion, and blood pressure . And alongside its sidekick, Vitamin D, calcium helps ward off osteoporosis . While getting too much calcium from dietary sources is rare, taking too many calcium supplements may carry some risk for kidney stones formation or heart disease, though the research is inconclusive .
 	WUN	1000mg
 	WTM	2500mg
 	milk	300mg per cup-ice cream counts too!
@@ -19,15 +21,17 @@ Calcium
 	spinach	115 mg per 1/2 cup
 	rhubarb	174 mg per 1/2 cup
 Choline		
+	INFO	Choline: Choline, another water-soluble B vitamin, is a building block of the neurotransmitter acetylcholine, which is essential for the nerve and brain activities that control memory and muscle movement. Choline also helps turn the food we eat and our stored energy (hello, love handles) into fuel  . Vegetarians, vegans, pregnant women, and endurance athletes are at greater risk for choline deficiency, which is linked to fatty liver disease, atherosclerosis, neurological disorders, and impaired fetal development . Extremely high doses won’t kill you, but consuming more than 10 grams per day can cause vomiting, increased sweating and salivation, and a fishy body order (and nobody wants that!).
 	WUN	Men = 550mg; Woman 425mg
 	WTM	3500mg
 	eggs	126 mg per egg
 	milk	38 mg per cup
-	broccoli	62 mg per cup
-	brussels sprouts	62 mg per cup
+	cooked broccoli	62 mg per cup
+	cooked brussels sprouts	62 mg per cup
 	beef	67 mg per 3 ounces
 	milk chocolate	20 mg per 1.5 ounces bar
 Chromium		
+	INFO	Chromium: You may have chrome wheels, but do you have chromium-dense meals? Though this trace mineral is thought to enhance insulin activity and the breakdown of the sugars that we eat, it’s only needed in small amounts and is not considered “essential” . Though some chromium supplements tout muscle building and weight loss benefits, there is no solid research evidence that backs up the claims . In fact, overconsumption of chromium supplements could cause kidney damage . So shelf the supplement and try an absperiment instead for rock-hard abs.
 	WUN	Men = 35 mcg; Women = 25 mcg
 	WTM	Not determined
 	broccoli	22 mgc per cup
@@ -35,6 +39,7 @@ Chromium
 	whole wheat waffle	6.7 mcg per waffle
 	whole wheat muffins	3.6 mcg per muffin
 Copper		
+	INFO	Copper: Don’t be penny-pinching with this shiny mineral, which is an essential trace element and antioxidant. Frontline in the creation of red blood cells, copper is also important for proper energy metabolism, immunity, and nervous system function . Though few and far between, copper deficiencies may manifest as anemia, a low white blood cell count, and bone deterioration . While copper toxicity from dietary intake is rare, cases of acute copper poisoning (which leads to some not-so-nice tummy troubles) have occurred due to contaminated water supplies or leaching from copper containers
 	WUN	900mcg
 	WTM	10000mcg
 	liver	4049mcg per ounce
@@ -44,6 +49,7 @@ Copper
 	raw_mushrooms	344 mcg per cup
 	semisweet chocolate	198 mcg per ounce
 Flouride		
+	INFO	Fluoride: This non-essential trace mineral helps keep those pearly whites cavity-free and bones less breakable . Before snacking on some toothpaste, know that most tap water in the U.S. is already fluorinated, taking care of those elemental needs.
 	WUN	Men = 4mg; Women = 3mg
 	WTM	10mg
 	grape juice	0.05 - 0.64 mg per cup
@@ -52,6 +58,7 @@ Flouride
 Folic Acid		
 folate		
 folacin		
+	INFO	Folic Acid (a.k.a. folate or folacin): Folic acid is such a key part of our diet that the U.S. government decided to fortify most commercial flour with this water-soluble vitamin. So what’s all the hoopla over folic acid? Well, it’s vital for pregnant women to ensure the baby’s proper development, helping prevent birth defects in the brain and spine  . No baby on board? Folic acid also helps create most all cells in the body and may reduce the risk of heart disease and colon cancer .
 	WUN	400 mcg
 	WTM	1000 mcg
 	fortified grains	200-400 mcg per cup
@@ -61,15 +68,17 @@ folacin
 	orange juice	83 mcg per cup
 	lentils	179 per half cup
 Iodine		
+	INFO	Iodine: Definitely dine with iodine: This essential trace mineral is a crucial component of thyroid hormones, which maintain our basal metabolic rate (BMR). Iodine also helps to regulate body temperature, nerve and muscle function, and plays a role in the body’s growth and development . Too little iodine can lead to thyroid dysfunction, developmental abnormalities, and even goiters, a swelling of the thyroid gland (that ain’t pretty) . Iodine is found in most table salt (it does say “iodized” on the container, right?). Now and then, an excess of iodine can cause hyperthyroidism, goiters, and in severe cases, GI discomfort and burning of the mouth, throat, and stomach, though rare.
 	WUN	150 mcg
 	WTM	1100mcg
 	cod	99 mcg per 3 ounces
 	shrimp	35 mcg per 3 ounces
 	tuna	17 mcg per half can
 	milk	56 mcg per cup
-	baked potatoes	60 mcg per medium potato
+	baked potatoes 	60 mcg per medium potato
 	seaweed	more than than 4,500 mcg per ¼ ounce!!!!!
 Iron		
+	INFO	Iron: Pump some iron (…into your meals) to help hemoglobin, a component of red blood cells, and myoglobin (hemoglobin’s counterpart in muscles) bring oxygen to all the cells that need it. Iron is also important in the production of amino acids, collagen, neurotransmitters, and hormones  . Since this mineral is more easily absorbed from red meat and poultry, vegetarians and vegans may want to consider iron supplements, or at least consume more iron-rich fruits and leafy green vegetables . But don’t go too crazy for iron: Acute overdose of iron can be lethal, and general excess can cause GI irritation, nausea, vomiting, diarrhea, and constipation .
 	WUN	Men = 8mg; Woman 18mg
 	WTM	45 mg
 	beef	2.32 mg per 3 cooked ounces
@@ -81,7 +90,8 @@ Iron
 	tofu	2.15 mg per ¼ block
 	cashews	1.89 per ounce
 Magnesium		
-	WUN	Men = 400 mg; Women = 310 mg
+	INFO	Magnesium: Magnetically drawn to calcium, magnesium is a macromineral that partners with calcium to assist with proper muscle contraction, blood clotting, cell signaling, energy metabolism, blood pressure regulation, and building healthy bones and teeth ! Rest easy because magnesium deficiency is super rare and so are toxicities, unless popping magnesium supplements is your thing. If so, watch out for diarrhea, lethargy, heart rate disturbances, and muscle weakness .
+	WUN	Men = 400 mg; Women = 310 mg How to Get It: Magnify magnesium intake with oat bran (96 mg per half cup), almonds (78 mg per ounce), brown rice (86 mg per cup), cooked spinach (78 mg per half cup), bananas (32 mg per banana), and molasses (48 mg per tablespoon).
 	WTM	There is no upper limit for dietary magnesium, but supplemental magnesium should not exceed 350 mg/day
 	oat bran	96 mg per half cup
 	almonds	78 mg per ounce
@@ -90,6 +100,7 @@ Magnesium
 	bananas	32 mg per banana
 	molasses	48 mg per tablespoon
 Manganese		
+	INFO	Manganese: Hailing from the Greek word for magic, manganese can be a double-edged sword. Though an essential trace mineral and antioxidant, it is also potentially toxic in excess . Important for energy, bone development, and wound healing, overindulgence of this magic mineral — usually a result of water contamination — may cause a dip in intellectual function  .
 	WUN	Men = 2.3 mg; Women = 1.8 mg
 	WTM	11mg
 	pineapples	0.77 mg per half cup, Get a limited portion of this potion with pineapples
@@ -98,6 +109,7 @@ Manganese
 	brown rice	1.07 mg per half cup
 	green tea	0.41-1.58 mg per cup
 Molybdenum		
+	INFO	Molybdenum: Though we can’t help with the pronunciation of this essential trace mineral, we can confirm that it’s a necessary factor of many enzymes, which speed up the body’s biochemical reactions that break down dietary and stored nutrients into energy . Molybdenum deficiency has never been documented in healthy people, and toxicity is similarly rare.
 	WUN	45 mcg
 	WTM	2000 mcg
 	black beans	130 mcg per cup
@@ -106,6 +118,7 @@ Molybdenum
 Niacin		
 b3		
 Nicotinic Acid		
+	INFO	Niacin ( a.k.a. Vitamin B3 or Nicotinic Acid): On the lookout for beautiful skin, hair, and red blood cells? Niacin is here to help! Like other water-soluble B vitamins, niacin is essential for converting food into energy. It’s also central for the health of skin, hair, eyes, liver, and the nervous system, and is believed to lower risks of high cholesterol and heart disease   . Extreme deficiencies in niacin may lead to pellagra, which is associated with the “the four D’s”: dermatitis (skin irritation), diarrhea, dementia, and death (yikes!) . But don’t overdo it either: Pellagra is exceptionally rare. High doses of niacin can be toxic, and may cause rosy tingling — the so-called “niacin flush” — if doses exceed 50 mg per day .
 	WUN	Men = 16 mg; Women = 14 mg
 	WTM	35 mg
 	peanuts	3.8 mg per ounces
@@ -115,6 +128,7 @@ Nicotinic Acid
 	coffee	0.5 mg per cup
 Pantothenic Acid		
 b5		
+	INFO	Pantothenic Acid (a.k.a. Vitamin B5): This vitamin is important in food metabolism and helps synthesize neurotransmitters, steroid hormones, red blood cells, and more. Toxicity is virtually nonexistent, and while B5 deficiency is fairly rare (it tends to accompany severe malnutrition) neurologic symptoms such as burning feet may crop up .
 	WUN	5 mg (AI)
 	WTM	Not detemined
 	chicken	0.98 mg per 3 ounces
@@ -125,6 +139,7 @@ b5
 	avocados	1.99 mg per whole avocado
 	yogurt	1.35 mg per cup
 Phosphorus		
+	INFO	Phosphorus: Keep bones and teeth prosperous with phosphorus, a macromineral that primarily builds and protects those choppers and your skeleton. Phosphorus is also a component of DNA and RNA, helps convert food into energy, and aids in shuttling nutrients to the organs that need them . While the kidneys dislike phosphorus in excess, acute poisoning with phosphorus is virtually nonexistent. On the flipside, rare cases of phosphorus deficiency can lead to anemia, muscle weakness, loss of appetite, rickets (in children), and numbness and tingling in the legs .
 	WUN	700 mg
 	WTM	4000mg
 	milk	257 mg per cup (Foods abounding in phosphorus include all-things dairy, like milk)
@@ -136,6 +151,7 @@ Phosphorus
 	chicken	155 mg per 3 ounces
 	carbonated cola drinks	40 mg per 3 ounces
 Potassium		
+	INFO	Potassium: Our hearts beat for potassium, a macromineral and electrolyte that’s essential for a steady heartbeat, the transmission of nervous system signals, and muscle function . Alongside sodium, potassium is also an MVP in balancing fluids by helping the kidney save fluids when we are dehydrated or excrete fluids that are in excess. And wait, there’s more! Potassium is thought to lower blood pressure and benefit bones, too . Short-term potassium deficiencies (often from prolonged vomiting or diarrhea) may cause fatigue, muscle weakness and cramps, bloating, abdominal pain, and constipation — thanks but no thanks ! But don’t get too pumped up on potassium: consuming high doses (typically from supplements) can lead to muscle weakness, tingling in hands and feet, GI symptoms, and abnormal heart rhythms .
 	WUN	4700mg
 	WTM	Not determined
 	baked potatoes	926 mg per potato
@@ -145,6 +161,7 @@ Potassium
 	bananas	422 per medium banana
 Riboflavin		
 b2		
+	INFO	Riboflavin (Vitamin B2): Flavorful riboflavin definitely has street cred. This water-soluble B vitamin helps convert food to fuel, encourages iron absorption in the intestines, and also enhances the health of hair, skin, muscles, eyes, and the brain . And some research suggests that riboflavin may be effective at combating migraines, too . Riboflavin deficiency is uncommon, but is associated with a sore throat, cracks and sores around the lips, an inflamed “magenta tongue” (say what?!), and scaly skin . While enormous intake of riboflavin may turn your pee bright yellow (a phenomenon called flavinuria), this side effect is harmless.
 	WUN	Men = 1.3mg; Women = 1.1mg
 	WTM	Not determined
 	milk	0.34 mg per cup
@@ -153,6 +170,7 @@ b2
 	eggs	0.27 mg per large egg
 	enriched grains and cereals	0.59-2.27 mg per cup
 Selenium		
+	INFO	Selenium: Selenium is a smooth-operator of thyroid hormone regulation, and also acts as an antioxidant . Antioxidants kick the “bad-guy” cells (free radicals) out of the body in order to prevent them from damaging the “good-guy” cells. Chronic excess of this trace mineral (usually from supplements) is known to cause nausea, GI discomfort, and hair and nail brittleness, so supplement selenium in moderation .
 	WUN	55 mcg
 	WTM	400 mcg
 	brazil nuts	544 mcg per six kernels, sky-high in selenium
@@ -164,6 +182,7 @@ Selenium
 	pork	35 mcg per 3 ounces
 Sodium Chloride		
 salt		
+	INFO	Sodium Chloride (a.k.a. salt): Chemistry buffs know this pair of minerals as NaCl. The rest of us call it table salt. Before shaking it up, know that sodium chloride is found in high quantities in most meals, snacks, and even drinks. While it is essential for fluid balance, nerve signal transmission, muscle contractions, digestion, and blood pressure, it is possible to have too much of this savory mineral set . Excess sodium intake can raise blood pressure above normal limits, increasing the risk for hypertension and cardiovascular disease down the road . Since the average daily diet already includes salt waaaay in excess, consider low-salt alternatives like olive oil (instead of butter), unsalted nuts in favor of salted ones, and fresh fruit!
 	WUN	500 mg of sodium; 750 mg of chloride
 	WTM	2,300 mg of sodium (the equivalent of 5.8 g of salt per day)
 	white bread	850 mg per 2 slices
@@ -171,6 +190,7 @@ salt
 	hot dogs	1300 mg per one wiener 
 Thiamin		
 b1		
+	INFO	Thiamin (a.k.a. Vitamin B1): Another member of the water-soluble B pack, thiamin helps with food metabolism and boosts the health of hair, skin, muscles, and the brain  . Toxicity has never been observed, and though thiamin deficiency (also known as beriberi) is rare in the U.S., it’s not nonexistent. Symptoms affect the cardiovascular, nervous, muscular, and gastrointestinal systems in a variety of ways .
 	WUN	Men = 1.2 mg; Women = 1.1 mg
 	WTM	Not determined
 	milk	0.1mg per cup
@@ -178,10 +198,24 @@ b1
 	cantaloupe	0.11 mg per 1/2 friut
 	enriched long grain white rice	0.26 mg per cup
 	pecans	0.19 mg per ounce
+a		
+	INFO	Vitamin A (a.k.a. retinol, retinal, retinoic acid): So what’s up with this vitamin, doc? Though known as being good for vision, vitamin A has many other vital tasks: It encourages red and white blood cell production and activity, keeps the immune system fit and blood vessels healthy, helps rebuild bone, regulates cell growth and division, and may reduce the risk for some cancers  . Retinoids, variations of Vitamin A, are also used in medications to treat various skin diseases and acne . Though infrequent in the U.S., vitamin A deficiency is not unheard of in developing countries, and can cause night blindness and, in extreme instances, complete blindness. Vitamin A deficiency also plays a role in diarrhea and increased susceptibility to infectious diseases in developing countries . So make like Bugs Bunny and crunch on some carrots for high doses of beta-carotene, which is readily converted to vitamin A once digested  .
+	WUN	Men = 900 mcg; Women = 700 mcg
+	WTM	3,000 mcg
+	kale	443 mcg per ½ cup
+	eggs	91 mcg per large egg
+	liver oil	1,350 mcg per teaspoon
+	carrots	538 mcg per ½ cup
+	baked sweet potatoes	961 mcg per ½ cup
+	canned pumpkin	953 mcg per ½ cup
+	cantaloupe	467 mcg per ½ a melon
+	mango	79 mcg per fruit
+	butternut squash	572 mcg per ½ cup
 b6		
 pyridoxal		
 pyridoxine		
 pyridoxamine		
+	INFO	Vitamin B6 (a.k.a. pyridoxal, pyridoxine, pyridoxamine): Like a G6, this essential, water-soluble vitamin flies high above the others. Vitamin B6helps out with the production of serotonin, a hormone that plays a hand in sleep, appetite, and mood . It also assists with manufacturing red blood cells and steroid hormones, influences cognitive and immune function, and is linked to reducing the risk of heart disease  . Diets lacking B6 are rare, but evidence of seizures and other neurologic systems are observed in extreme deficiency. Adverse effects from high doses are primarily seen in people taking supplements, and include pain and numbness in the limbs .
 	WUN	1.3 mg
 	WTM	100mg
 	salmon	0.48 mg per 3 ounces
@@ -191,6 +225,7 @@ pyridoxamine
 	hazelnuts	0.18 mg per ounces
 	coocked spinach	0.44 mg per cup
 b12		
+	INFO	Vitamin B12: Another water-soluble B vitamin, vitamin B12 offers a helping hand in the metabolism of fatty acids and amino acids, cell creation, and the protection of nerve cells , and also may reduce the risk of Alzheimer’s  . Keep B12 close when it gets to those later, grey-haired years: deficiencies are common in the elderly and may cause memory loss, dementia, and anemia . Toxicities are not observed, and vegetarians and vegans may even need supplements.
 	WUN	2.4 mcg
 	WTM	Not determined
 	clams	84 mcg per 3 ounces
@@ -202,6 +237,7 @@ b12
 	brie cheese	0.5 mcg per ounces
 c		
 asorbic acid		
+	INFO	Vitamin C (a.k.a. asorbic acid): As we go on, we remember… that vitamin C is one of the best vitamins ever! Cartons of OJ are emblazoned with this famous vitamin’s name — and for a good reason. Vitamin C is thought to lower the risk for some cancers, including cancers of the mouth, esophagus, stomach, and breast . It also helps make collagen, an important tool in wound repair. And let’s not forget its antioxidant properties and immune-boosting effects ! But before chugging that daily glass of Emergen-C to ward off a cold, know that evidence linking “mega-doses” of Vitamin C to staving off sickness are conflicting. How so? A review of 30 research trials that included over 11,000 people showed that the incidence of the common cold is not decreased with high Vitamin C intake . What’s more, the potential for vitamin C overdose is not ruled out, though uncertain. But don’t skimp on C: After all, scurvy — the severe vitamin C deficiency linked to bleeding, bruising, join pain, and hair and tooth loss — is for pirates, not millennials . Arrgh!
 	WUN	Men = 90 mg; Women = 75mg
 	WTM	2000 mg
 	orange juice	100+ mg per cup
@@ -211,6 +247,7 @@ asorbic acid
 	red peppers	95 mg per 1/2 cup
 	broccoli	51 mg per 1/2 cup
 d		
+	INFO	Vitamin D: Who loves the sun? This essential fat-soluble vitamin — which is vital for normal calcium metabolism, immunity, nervous system function, and bone density — sure does  . But before vitamin Dcan live up to its expectations, it must be activated by a burst of UV rays. Before you throw on a bikini and soak up the sun (putting you at risk for skin cancer!) consider supplements or cereals, milk, and juices that are fortified with the active form, which is equally effective . Dips in vitamin D are no joke: chronic deficiency puts you at risk for osteoporosis later in life. Make sure your diet shines with vitamin D(especially in the winter) to keep your bones healthy and reduce risks of cancer .
 	WUN	15 mcg
 	WTM	50 mcg
 	fortified cereals	1.0-1.3 mcg per cup
@@ -218,6 +255,7 @@ d
 	canned salmon	13.3 mcg per 3 ounces
 	egg yolks	0.53 mcg per large egg
 e		
+	INFO	Vitamin E: E is for the Excellent Eight. A family of eight antioxidants, vitamin E protects essential lipids from damage, battles free radicals, and maintains the integrity of cell membranes . Drop some E (the vitamin!) to avoid impaired balance and coordination, muscle weakness, and pain and numbness in the limbs — all signs of extreme deficiency . Think you’re in the clear? Turns out that more than 90 percent of Americans do not meet the recommendations for this vitamin’s daily intake.
 	WUN	15 mg
 	WTM	1000mg
 	olive oil	1.9 mg per tablespoon
@@ -226,6 +264,7 @@ e
 	avocados	2.7 mg per avocado
 	hazelnuts	4.3 mg per ounce
 k		
+	INFO	Vitamin K: Not to be confused with its mineral chum potassium (which is also noted as a “K” on the periodic table), this essential fat-soluble vitamin is a must for normal wound healing and bone development . K is for “koagulation,” the German word for coagulation, or clotting. While blood clots sound menacing, consider the importance of scabs, which are simply patches of clotted blood to protect cuts and scrapes . Ladies taking birth control pills should be careful with overconsumption of vitamin K, as a combination of the birth control pill and excess Vitamin K could put you at risk for unwanted clots . Deficiencies in vitamin K include easy bruisability, bleeding, nosebleeds, and heavy menstrual periods.
 	WUN	Men = 120 mcg; Women = 90 mcg (AI)
 	WTM	Not determined
 	broccoli	220 mcg per cup
@@ -233,6 +272,7 @@ k
 	parsley	246 mcg per 1/4 cup
 	swiss chard	299 mcg per cup
 zinc		
+	INFO	Zinc: Zippity doo dah for zinc, a trace element that is a building block for enzymes, proteins, and cells. It is also responsible for freeing Vitamin A from its holding tank, the liver, through its enzymatic activity . But that’s not all for the last on this list: zinc also plays a role in boosting the immune system, mediating senses such as taste and smell, and wound healing . Zinc toxicity is rare, but zinc deficiency (most commonly occurring in the developing world) may lead to delays in growth and development, rough skin, cognitive impairment, a weakened immune system (leading in increased susceptibility of infectious diseases, particularly in kids), and more  .
 	WUN	Men = 11 mg; Women = 8 mg
 	WTM	40 mg Last but not least, don’t forget your daily dose of Vitamin G
 	oyesters	76.3 mg per 6 oyesters
