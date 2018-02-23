@@ -1,0 +1,11 @@
+CREATE TABLE vitamin(
+	name VARCHAR(20) NOT NULL,
+	foods VARCHAR(256) NOT NULL,
+	WhatYouNeed VARCHAR(20) NOT NULL,
+	WhatsTooMuch VARCHAR(20) NOT NULL	
+);
+CREATE TABLE vitaminQuantInFood(
+	foodname VARCHAR(20) NOT NULL,
+	vitamin VARCHAR(20) NOT NULL,
+	quantity VARCHAR(40) NOT NULL
+);
