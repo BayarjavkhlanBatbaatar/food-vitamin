@@ -70,6 +70,7 @@ def handleArgv():
 def showVitaminInFood():
 	inputList = requestArg.split()
 	foodname = inputList[1]
+	foodname = foodname.replace("-", " ")
 	vitamin = inputList[0]
 	conn = sqlite3.connect("sql/database.sqlite3")
 	data = conn.execute("SELECT * FROM vitaminQuantInFood")
@@ -79,7 +80,7 @@ def showVitaminInFood():
 			vits = food[1].split(',')
 			for vit in vits:
 				if vit == vitamin:
-					print(vitamin.upper() + " in " + foodname.upper() + ": " + food[2])
+					print("Vitamin " + vitamin.upper() + " in " + foodname.upper() + ": " + food[2])
 					return
 	print("As recorded in Database " + vitamin.upper() + " is not included in " + foodname.upper())
 def showVitaminInfo():
@@ -157,6 +158,7 @@ def handleHelp():
 	-vi [arg] or --vitaminInfo will show you info about effect of the vitamin on your body.
 
 	-vf [arg][arg] or --vitaminAmountInFood will show you how much of the vitamin is in the food.
+		!!!!! if food name consists of multiple words, connect those words with dash '-'
 
 	-ei or --extendedInfo flag will you show you long boring info. 
 		You can it from https://greatist.com/health/ultimate-guide-vitamins-and-minerals.
