@@ -81,8 +81,10 @@ def showVitaminInFood():
 			for vit in vits:
 				if vit == vitamin:
 					print("Vitamin " + vitamin.upper() + " in " + foodname.upper() + ": " + food[2])
+					print("--------------------------------")
 					return
 	print("As recorded in Database " + vitamin.upper() + " is not included in " + foodname.upper())
+	print("--------------------------------")
 def showVitaminInfo():
 	conn = sqlite3.connect("sql/database.sqlite3")
 	data = conn.execute("SELECT * FROM vitamin")
@@ -92,6 +94,7 @@ def showVitaminInfo():
 		for vit in vitamin_sep:
 			if vit == requestArg:
 				print(vitamin[2])
+				print("--------------------------------")
 				return
 def handleShowFood():
 	vitList = []
@@ -102,11 +105,11 @@ def handleShowFood():
 		dummy = food[0].split()
 		for foo in dummy:
 			if foo == requestArg:
-				vitList.append(food[0].upper() + ": " + food[1])
-	print("Searched for " + requestArg.upper() + ": ")
+				vitList.append(food[0].upper() + ": " + food[1] + "\n\t [[ QUANT: " + food[2] + " ]]")
+	print("\nSearched for " + requestArg.upper() + ": ")
 	vitList.sort()
 	print("\n".join(vitList))
-
+	print("--------------------------------")
 def handleShowVitamin():
 	conn = sqlite3.connect("sql/database.sqlite3")
 	data = conn.execute("SELECT * FROM vitamin")
@@ -121,8 +124,11 @@ def handleShowVitamin():
 				print("Vitamin " + vit.upper() + " is in [" + vitamin[1] + "]")
 				print("What you need is: " + vitamin[3])
 				print("What is too much is: " + vitamin[4])
+				print("--------------------------------")
 				return
 	print("Vitamin " + requestArg.upper() + " is not included in Database, try another one :D")
+
+	print("--------------------------------")
 	return
 
 def handleListVitamins():
@@ -135,6 +141,8 @@ def handleListVitamins():
 		vitList.extend(vitamin_sep)
 	vitList.sort()
 	print("\n".join(vitList))
+
+	print("--------------------------------")
 	# print(vitList)
 def handleListFood():
 	foodList = []
@@ -145,6 +153,7 @@ def handleListFood():
 		if foodList.count(food[0]) == 0:
 			foodList.append(food[0])
 	print("\n".join(foodList))
+	print("--------------------------------")
 def handleHelp():
 	print('''
 	use one of following flags: 
