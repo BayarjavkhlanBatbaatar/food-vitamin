@@ -31,39 +31,23 @@ def handleArgv():
 	if len(sys.argv) == 1:
 		return "h"
 	elif sys.argv[1] == "-h" or sys.argv[1] == "--help":
-		if len(sys.argv) != 2:
-			return "error"
 		return "h"
 	elif sys.argv[1] == "-ei" or sys.argv[1] == "--extendedInfo":
-		if len(sys.argv) != 2:
-			return "error"
 		return "ei"
 	elif sys.argv[1] == "-lf" or sys.argv[1] == "--listFood":
-		if len(sys.argv) != 2:
-			return "error"
 		return "lf"
 	elif sys.argv[1] == "-lv" or sys.argv[1] == "--listVitamin":
-		if len(sys.argv) != 2:
-			return "error"
 		return "lv"
 	elif sys.argv[1] == "-vi" or sys.argv[1] == "--vitaminInfo":
-		if len(sys.argv) != 3:
-			return "error"
 		requestArg = sys.argv[2].lower()
 		return "vi"
 	elif sys.argv[1] == "-v" or sys.argv[1] == "--vitamin":
-		if len(sys.argv) != 3:
-			return "error"
 		requestArg = sys.argv[2].lower()
 		return "v"
 	elif sys.argv[1] == "-f" or sys.argv[1] == "--food":
-		if len(sys.argv) != 3:
-			return "error"
 		requestArg = sys.argv[2].lower()
 		return "f"
 	elif sys.argv[1] == "-vf" or sys.argv[1] =="--vitaminAmountInFood":
-		if len(sys.argv) != 4:
-			return "error"
 		requestArg = sys.argv[2].lower() + " " + sys.argv[3].lower()
 		return "vf"
 	else:
@@ -95,11 +79,12 @@ def showVitaminInfo():
 		vitamin_sep = vitamin[0].split(',')
 		for vit in vitamin_sep:
 			if vit == requestArg:
+				print("--------------------------------")
 				print(vitamin[2])
+				print("--------------------------------")
 				tts = gTTS(text = vitamin[2], lang='en')
 				tts.save('vitInfo.mp3')
 				os.system("mpg321 vitInfo.mp3")
-				print("--------------------------------")
 				return
 def handleShowFood():
 	vitList = []
@@ -162,28 +147,28 @@ def handleListFood():
 def handleHelp():
 	print('''
 	use one of following flags: 
-	-h or --help flag will show you instruction you can use this program.
+	h or help flag will show you instruction you can use this program.
 
-	-lf or --listFood flag will show you all food you can search for.
-	-lv or --listVitamin flag will show you all vitamins you can search for.
+	lf or listFood flag will show you all food you can search for.
+	lv or listVitamin flag will show you all vitamins you can search for.
 
-	-v [arg] or --vitamin [arg] flag will show you list of food which includes the vitamin you searched.
-	-f [arg] or --food [arg] will show you list of vitamins in the specific food.
-	-vi [arg] or --vitaminInfo will show you info about effect of the vitamin on your body.
+	v [arg] or vitamin [arg] flag will show you list of food which includes the vitamin you searched.
+	f [arg] or food [arg] will show you list of vitamins in the specific food.
+	vi [arg] or vitaminInfo will show you info about effect of the vitamin on your body.
 
-	-vf [arg][arg] or --vitaminAmountInFood will show you how much of the vitamin is in the food.
+	vf [arg][arg] or vitaminAmountInFood will show you how much of the vitamin is in the food.
 		!!!!! if food name consists of multiple words, connect those words with dash '-'
 
-	-ei or --extendedInfo flag will you show you long boring info. 
+	ei or extendedInfo flag will you show you long boring info. 
 		You can it from https://greatist.com/health/ultimate-guide-vitamins-and-minerals.
 		It is easier to read from the source.
 
 
 	Example: 
-	1) python vitaminInfo.py -h  OR python vitaminInfo.py --help
-	2) python vitaminInfo.py -lf
-	3) python vitaminInfo.py -v b12
-	4) python vitaminInfo.py -f kale
+	1) vitaminInfo.sh h  OR vitaminInfo.sh help
+	2) vitaminInfo.sh lf
+	3) vitaminInfo.sh v b12
+	4) vitaminInfo.sh f kale
 	''')
 
 def handleError():
@@ -191,7 +176,7 @@ def handleError():
 	You are using it wrong dude. 
 	Type following and get help.
 
-	python vitaminInfo.py -h
+	vitaminInfo.sh help
 	''')
 
 def showExtendedInfo():
