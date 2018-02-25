@@ -1,5 +1,7 @@
 import sys
 import sqlite3
+from gtts import gTTS
+import os
 
 requestArg = ""
 
@@ -94,6 +96,9 @@ def showVitaminInfo():
 		for vit in vitamin_sep:
 			if vit == requestArg:
 				print(vitamin[2])
+				tts = gTTS(text = vitamin[2], lang='en')
+				tts.save('vitInfo.mp3')
+				os.system("mpg321 vitInfo.mp3")
 				print("--------------------------------")
 				return
 def handleShowFood():
