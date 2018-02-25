@@ -133,7 +133,7 @@ case $1 in
 		fi
 	;;
   	*)
-	    echo "Usage: $0 (extendedInfo|listFood|listVitamin|vitaminInfo|vitamin $1|food $1|vitaminAmountInFood $1 $2)"
+	    echo "Usage: $0 (extendedInfo|listFood|listVitamin|vitaminInfo|vitamin ~1|food ~1|vitaminAmountInFood ~1 ~2)"
 	    exit 1
 	    ;;
 
